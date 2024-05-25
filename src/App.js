@@ -103,8 +103,8 @@ function App() {
           <div className="social-links mt-3 text-center">
             <a href="https://twitter.com/aashishkasar" className="twitter"><i className="bx bxl-twitter"></i></a>
             <a href="https://www.facebook.com/profile.php?id=100063765503760" className="facebook"><i className="bx bxl-facebook"></i></a>
-            <a href="https://www.instagram.com/_cycling_shots/" className="instagram"><i className="bx bxl-instagram"></i></a>
-            <a href="https://github.com/Aashish1326" className="fa fa-github"><i className="bx bxl-github"></i></a>
+            <a href="https://www.instagram.com/cyclist_aashish/" className="instagram"><i className="bx bxl-instagram"></i></a>
+            <a href="https://github.com/aashishkasar" className="fa fa-github"><i className="bx bxl-github"></i></a>
             <a href="https://www.linkedin.com/in/aashishkasar/" className="linkedin"><i className="bx bxl-linkedin"></i></a>
             <a href="https://www.strava.com/athletes/90620852" className="bi bi-strava"><i className="bx bxl-strava"></i></a>
 
