@@ -56,7 +56,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const toRotate = ["Junior Data Scientist","Digital Marketer" , "Freelancer", "Cyclist"];
+  const toRotate = ["Aspiring Data Scientist","Digital Marketer" , "Freelancer", "Cyclist"];
   const [text, setText] = useState('');
   const period = 1000;
   const [delta, setDelta] = useState(300 - Math.random() * 100);
@@ -154,9 +154,9 @@ function App() {
             <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
               <h3>Junior Data Scientist</h3>
               <p className="fst-italic">
-                A punctual and hardworking student, very interested in learning new stuff and reserch further to unknown information.
-                Looking forward to adapt and learn from training in the new environment, also meeting new friends and to work
-                with together with them as a team.
+               Complete Training And Internship Program at Innomatics Resaerch Lab which was 10 months long Course and Four Month Internship it covered many skills and was very helpful and a great experience working in itIt was Complete Training And Internship Program which was three months long it covered many skills and was very helpful and a great experience working in it
+
+Skills: Python (Programming Language) · Data Analysis · Data Science · Django · Flask · streamlit · MLOps · Machine Learning · Deep Learning AWS · CV · ec2· Flask · streamlet · GenAI 
               </p>
               <div className="row">
                 <div className="col-lg-6">
@@ -188,82 +188,46 @@ function App() {
 
 
 
-      {/* <!-- ======= Skills Section ======= --> */}
-      <section id="skills" className="skills section-bg">
-        <div className="container">
+     
+    {/* <!-- ======= Skills Section ======= --> */}
+<section id="skills" className="skills section-bg">
+  <div className="container">
 
-          <div className="section-title">
-            <h2>Skills</h2>
-          </div>
+    <div className="section-title">
+      <h2>Skills</h2>
+    </div>
 
-          <div className="row skills-content">
+    <div className="row skills-content">
 
-            <div className="col-lg-6" data-aos="fade-up">
+      <div className="col-lg-6" data-aos="fade-up">
+        <ul>
+          <li>Python</li>
+          <li>Machine Learning (ML)</li>
+          <li>Deep Learning (DL)</li>
+          <li>Natural Language Processing (NLP)</li>
+          <li>Computer Vision</li>
+          <li>Generative AI</li>
+        </ul>
+      </div>
 
-              <div className="progress">
-                <span className="skill">Python <i className="val">70%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progressBar">
-                    <ProgressBar now={70} />
-                  </div>
-                </div>
-              </div>
+      <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+        <ul>
+          <li>Visualization</li>
+          <li>Flask</li>
+          <li>Django</li>
+          <li>MySQL</li>
+          <li>Tableau</li>
+          <li>Git</li>
+          <li>Docker</li>
+          <li>AWS</li>
+          <li>Vertex AI</li>
+        </ul>
+      </div>
 
-              <div className="progress">
-                <span className="skill">ML <i className="val">75%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progressBar" >
-                  <ProgressBar now={75} />
-                  </div>
-                </div>
-              </div>
-
-              <div className="progress">
-                <span className="skill">MySQL <i className="val">75%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progressBar">
-                    <ProgressBar now={75} />
-                  </div>
-                </div>
-              </div>
-
-            </div>
-
-            <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-
-              <div className="progress">
-                <span className="skill">Visualization <i className="val">80%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progressBar" >
-                  <ProgressBar now={80} />
-                  </div>
-                </div>
-              </div>
-
-              <div className="progress">
-                <span className="skill">DL <i className="val">70%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progressBar" >
-                  <ProgressBar now={70} />
-                  </div>
-                </div>
-              </div>
-
-
-              <div className="progress">
-                <span className="skill">Flask,Tableau  <i className="val">70%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progressBar" >
-                    <ProgressBar now={70}/>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-    </section>
-    {/* <!-- End Skills Section --> */}
+    </div>
+  </div>
+</section>
+{/* <!-- End Skills Section --> */}   
 
     {/* <!-- ======= Resume Section ======= --> */}
     <section id="resume" className="resume">
