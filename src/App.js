@@ -152,9 +152,9 @@ function App() {
               <img src={profileImg} className="img-fluid" alt="" />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-              <h3>Junior Data Scientist</h3>
+              <h3>Aspiring Data Scientist</h3>
               <p className="fst-italic">
-               Complete Training And Internship Program at Innomatics Resaerch Lab which was 10 months long Course and Four Month Internship it covered many skills and was very helpful and a great experience working in itIt was Complete Training And Internship Program which was three months long it covered many skills and was very helpful and a great experience working in it
+               Completed Training And Internship Program at Innomatics Resaerch Lab which was 10 months long Course and Four Month Internship it covered many skills and was very helpful and a great experience working in itIt was Complete Training And Internship Program which was three months long it covered many skills and was very helpful and a great experience working in it
 
 Skills: Python (Programming Language) · Data Analysis · Data Science · Django · Flask · streamlit · MLOps · Machine Learning · Deep Learning AWS · CV · ec2· Flask · streamlet · GenAI 
               </p>
@@ -189,45 +189,45 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
 
 
      
-    {/* <!-- ======= Skills Section ======= --> */}
-<section id="skills" className="skills section-bg">
-  <div className="container">
-
-    <div className="section-title">
-      <h2>Skills</h2>
-    </div>
-
-    <div className="row skills-content">
-
-      <div className="col-lg-6" data-aos="fade-up">
-        <ul>
-          <li>Python</li>
-          <li>Machine Learning (ML)</li>
-          <li>Deep Learning (DL)</li>
-          <li>Natural Language Processing (NLP)</li>
-          <li>Computer Vision</li>
-          <li>Generative AI</li>
-        </ul>
+        {/* <!-- ======= Skills Section ======= --> */}
+    <section id="skills" className="skills section-bg">
+      <div className="container">
+    
+        <div className="section-title">
+          <h2>Skills</h2>
+        </div>
+    
+        <div className="row skills-content">
+    
+          <div className="col-lg-6" data-aos="fade-up">
+            <ul>
+              <li>Python</li>
+              <li>Machine Learning (ML)</li>
+              <li>Deep Learning (DL)</li>
+              <li>Natural Language Processing (NLP)</li>
+              <li>Computer Vision</li>
+              <li>Generative AI</li>
+            </ul>
+          </div>
+    
+          <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <ul>
+              <li>Visualization</li>
+              <li>Flask</li>
+              <li>Django</li>
+              <li>MySQL</li>
+              <li>Tableau</li>
+              <li>Git</li>
+              <li>Docker</li>
+              <li>AWS</li>
+              <li>Vertex AI</li>
+            </ul>
+          </div>
+    
+        </div>
       </div>
-
-      <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-        <ul>
-          <li>Visualization</li>
-          <li>Flask</li>
-          <li>Django</li>
-          <li>MySQL</li>
-          <li>Tableau</li>
-          <li>Git</li>
-          <li>Docker</li>
-          <li>AWS</li>
-          <li>Vertex AI</li>
-        </ul>
-      </div>
-
-    </div>
-  </div>
-</section>
-{/* <!-- End Skills Section --> */}   
+    </section>
+    {/* <!-- End Skills Section --> */}   
 
     {/* <!-- ======= Resume Section ======= --> */}
     <section id="resume" className="resume">
@@ -245,7 +245,7 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
             <h3 className="resume-title">Sumary</h3>
             <div className="resume-item pb-0">
               <h4>Aashish Kasar</h4>
-              <p><em>Entry-Level Data Scientist who is keen to contribute to a cause.
+              <p><em> Aspiring Data Scientist who is keen to contribute to a cause.
                 I am a energetic, and geeky individual whose desire to learn is endless.</em></p>
               <ul>
                 <li>Mumbai, Maharashtra IN</li>
@@ -262,7 +262,7 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
               <p></p>
             </div>
             <div className="resume-item">
-              <h4>Diploma in Electrical Engineering</h4>
+              <h4>PG in Information Technology (MIT)</h4>
               {/* <!-- <h5>2017 - 2022</h5> --> */}
               <p><em>MSBTE, Nashik, MH</em></p>
               <p></p>
@@ -272,12 +272,22 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
               <p><em>Innomatic Reserch Lab, Hyderbad,TS</em></p>
               <p></p>
             </div>
+                <div className="resume-item">
+              <h4> Sports Analytics Course(2023)</h4>
+              <p><em>Course on Digital Vidya Powered by Royals School Of Business</em></p>
+              <p></p>
+            </div>
+                   <div className="resume-item">
+              <h4> Oracle Cloud Infrastructure 2024 Generative AI Certified ProfessionalOracle Cloud Infrastructure 2024 Generative AI Certified Professional</h4>
+              <p><em>Oracle</em></p>
+              <p></p>
+            </div>
           </div>
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 className="resume-title">Professional Experience</h3>
             <div className="resume-item">
-              <h4>Junior Data Sacince Intern in Innomatics Reserch Lab</h4>
-              <h5>2022 - Present</h5>
+              <h4>Data Sacince Intern in Innomatics Reserch Lab</h4>
+              <h5>AUG 2022 - Present</h5>
               <p><em>Experion, Hyderbad, TS </em></p>
               <ul>
                 <li>An understanding of programming languages, such as Python and MySQL.</li>
@@ -290,8 +300,12 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
 
               {/* <!-- <p><em>Stepping Stone Advertising, New York, NY</em></p> --> */}
               <ul>
-                <li>Data Analysis</li>
-                <li>Flask</li>
+                <li>Tomato leaf disease detection using CNN</li>
+                <li>PRICE ANALYSIS ON LAPTOPS BASED ON FEATURES</li>
+                <li>Regex-Matching-Web-App-Development-Project Deploy at AWS ec2</li>
+                <li>GenAI App AI Code Reviewer</li>
+                <li>Building Gemini AI based Streamlit Chat Application</li>
+                <li>Build RAG System with Lang Chain Framework</li>
 
               </ul>
             </div>
