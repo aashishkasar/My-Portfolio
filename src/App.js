@@ -264,12 +264,12 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
             <div className="resume-item">
               <h4>PG in Information Technology</h4>
               {/* <!-- <h5>2021 - 2023</h5> --> */}
-              <p><em>MIT, Pune, MH</em></p>
+              <p><em>MIT, Pune, MH (2023)</em></p>
               <p></p>
             </div>
             <div className="resume-item">
               <h4>Certification IBM Data Sacince</h4>
-              <p><em>Innomatic Reserch Lab, Hyderbad,TS</em></p>
+              <p><em>Innomatic Reserch Lab, Hyderbad,TS (2022-2023)</em></p>
               <p></p>
             </div>
             <div className="resume-item">
@@ -278,7 +278,7 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
               <p></p>
             </div>
             <div className="resume-item">
-              <h4> Oracle Cloud Infrastructure 2024 Generative AI Certified ProfessionalOracle Cloud Infrastructure 2024 Generative AI Certified Professional</h4>
+              <h3> Oracle Cloud Infrastructure 2024 Generative AI Certified ProfessionalOracle Cloud Infrastructure 2024 Generative AI Certified Professional</h3>
               <p><em>Oracle</em></p>
               <p></p>
             </div>
