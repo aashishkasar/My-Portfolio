@@ -278,7 +278,7 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
               <p></p>
             </div>
             <div className="resume-item">
-              <h3> Oracle Cloud Infrastructure 2024 Generative AI Certified ProfessionalOracle Cloud Infrastructure 2024 Generative AI Certified Professional</h3>
+              <h4> Oracle Cloud Infrastructure 2024 Generative AI Certified ProfessionalOracle Cloud Infrastructure 2024 Generative AI Certified Professional</h4>
               <p><em>Oracle</em></p>
               <p></p>
             </div>
