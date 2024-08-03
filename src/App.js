@@ -272,12 +272,12 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
               <p><em>Innomatic Reserch Lab, Hyderbad,TS</em></p>
               <p></p>
             </div>
-                <div className="resume-item">
+            <div className="resume-item">
               <h4> Sports Analytics Course(2023)</h4>
               <p><em>Course on Digital Vidya Powered by Royals School Of Business</em></p>
               <p></p>
             </div>
-                   <div className="resume-item">
+            <div className="resume-item">
               <h4> Oracle Cloud Infrastructure 2024 Generative AI Certified ProfessionalOracle Cloud Infrastructure 2024 Generative AI Certified Professional</h4>
               <p><em>Oracle</em></p>
               <p></p>
