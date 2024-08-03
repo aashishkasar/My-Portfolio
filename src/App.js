@@ -143,7 +143,7 @@ function App() {
 
           <div className="section-title">
             <h2>About</h2>
-            <p>Entry-Level Data Scientist who is keen to contribute to a cause.
+            <p>Aspiring Data Scientist who is keen to contribute to a cause.
               <br />I am a energetic, and geeky individual whose desire to learn is endless. </p>
           </div>
 
@@ -262,9 +262,9 @@ Skills: Python (Programming Language) · Data Analysis · Data Science · Django
               <p></p>
             </div>
             <div className="resume-item">
-              <h4>PG in Information Technology (MIT)</h4>
-              {/* <!-- <h5>2017 - 2022</h5> --> */}
-              <p><em>MSBTE, Nashik, MH</em></p>
+              <h4>PG in Information Technology</h4>
+              {/* <!-- <h5>2021 - 2023</h5> --> */}
+              <p><em>MIT, Pune, MH</em></p>
               <p></p>
             </div>
             <div className="resume-item">
