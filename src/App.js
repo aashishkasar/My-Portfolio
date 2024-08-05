@@ -154,9 +154,10 @@ function App() {
             <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
               <h3>Aspiring Data Scientist</h3>
               <p className="fst-italic">
-               Completed Training And Internship Program at Innomatics Resaerch Lab which was 10 months long Course and Four Month Internship it covered many skills and was very helpful and a great experience working in itIt was Complete Training And Internship Program which was three months long it covered many skills and was very helpful and a great experience working in it
-
-Skills: Python (Programming Language) · Data Analysis · Data Science · Django · Flask · streamlit · MLOps · Machine Learning · Deep Learning AWS · CV · ec2· Flask · streamlet · GenAI 
+               Completed Training And Internship Program at Innomatics Research Lab which was 10 months long Course 
+               and Four Month Internship it covered many skills and was very helpful and a great experience working in it. 
+               Skills: Python (Programming Language) • Data Analysis • Data Science • Django • Flask 
+               • streamlit • MLOps • Machine Learning • Deep Learning • NLP •AWS • CV • ec2• Flask • streamlet • GenAI
               </p>
               <div className="row">
                 <div className="col-lg-6">
