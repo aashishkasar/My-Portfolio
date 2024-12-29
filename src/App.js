@@ -56,7 +56,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const toRotate = ["Aspiring Data Scientist","Digital Marketer" , "Freelancer", "Cyclist"];
+  const toRotate = ["Aspiring Data Scientist (AI)","Web Devloper" , "Freelancer", "Cyclist"];
   const [text, setText] = useState('');
   const period = 1000;
   const [delta, setDelta] = useState(300 - Math.random() * 100);
