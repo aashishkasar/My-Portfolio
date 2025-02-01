@@ -408,7 +408,7 @@ function App() {
         {/* <!-- ======= Footer ======= --> */}
         <footer id="footer">
           <div className="container">
-            <div className="copyright">
+            <div className="copyright"> 2025
               &copy; Copyright <strong><div>AashishKasarFaundation</div></strong>
             </div>
             <div className="credits">
