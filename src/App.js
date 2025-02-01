@@ -408,8 +408,8 @@ function App() {
         {/* <!-- ======= Footer ======= --> */}
         <footer id="footer">
           <div className="container">
-            <div className="copyright"> 2025
-              &copy; Copyright <strong><div>AashishKasarFaundation</div></strong>
+            <div className="copyright"> 
+              &copy; 2025 Copyright <strong><div>AashishKasarFaundation</div></strong>
             </div>
             <div className="credits">
 
