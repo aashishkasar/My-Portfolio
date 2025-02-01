@@ -257,7 +257,7 @@ function App() {
 
             <h3 className="resume-title">Education</h3>
             <div className="resume-item">
-              <h4>Certification IBM Data Sacince</h4>
+              <h4>IBM Certified Data Science & Artificial Intelligence</h4>
               <p><em>Innomatic Reserch Lab, Hyderbad,TS (2022-2023)</em></p>
               <p></p>
             </div>
