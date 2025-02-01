@@ -257,9 +257,8 @@ function App() {
 
             <h3 className="resume-title">Education</h3>
             <div className="resume-item">
-              <h4>Bachelor in Electrical Engineering</h4>
-              {/* <!-- <h5>2022-2024</h5> --> */}
-              <p><em>Pune University, Nashik, MH</em></p>
+              <h4>Certification IBM Data Sacince</h4>
+              <p><em>Innomatic Reserch Lab, Hyderbad,TS (2022-2023)</em></p>
               <p></p>
             </div>
             <div className="resume-item">
@@ -269,8 +268,10 @@ function App() {
               <p></p>
             </div>
             <div className="resume-item">
-              <h4>Certification IBM Data Sacince</h4>
-              <p><em>Innomatic Reserch Lab, Hyderbad,TS (2022-2023)</em></p>
+              <h4>Bachelor in Electrical Engineering</h4>
+              {/* <!-- <h5>2022-2024</h5> --> */}
+              <p><em>Pune University, Nashik, MH</em></p>
+              
               <p></p>
             </div>
             <div className="resume-item">
