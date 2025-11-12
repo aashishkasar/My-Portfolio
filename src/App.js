@@ -56,7 +56,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const toRotate = ["Aspiring Data Scientist","AI Researcher" , "Freelancer", "Cyclist"];
+  const toRotate = ["Agentic AI Engineer","AI Researcher" , "Freelancer"];
   const [text, setText] = useState('');
   const period = 1000;
   const [delta, setDelta] = useState(300 - Math.random() * 100);
@@ -206,6 +206,7 @@ function App() {
               <li>Natural Language Processing (NLP)</li>
               <li>Computer Vision</li>
               <li>Generative AI</li>
+              <li>Agentic AI</li>
             </ul>
           </div>
     
