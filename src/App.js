@@ -409,7 +409,7 @@ function App() {
         <footer id="footer">
           <div className="container">
             <div className="copyright"> 
-              &copy; 2026 Copyright <strong><div>AashishKasarFaundation</div></strong>
+              &copy; 2025 Copyright <strong><div>AashishKasarFaundation</div></strong>
             </div>
             <div className="credits">
 
