@@ -152,10 +152,16 @@ function App() {
             <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
               <h3>Aspiring Data Scientist</h3>
               <p className="fst-italic">
-               Completed Training And Internship Program at Innomatics Research Lab which was 10 months long Course 
-               and Four Month Internship it covered many skills and was very helpful and a great experience working in it. 
-               Skills: Python (Programming Language) • Data Analysis • Data Science • Django • Flask 
-               • streamlit • MLOps • Machine Learning • Deep Learning • NLP •AWS • CV • ec2• Flask • streamlet • GenAI
+           Generative AI Mentor | Architects of Boundless Coding (AOBC)
+architectsofboundlesscoding.com
+
+I am an IBM Certified Data Science & Artificial Intelligence professional from Innomatics Research Lab, holding a Post Graduate certification in Cloud Computing and advanced credentials in Data Science, Machine Learning, and Generative AI.
+
+My expertise includes Machine Learning (ML), Natural Language Processing (NLP), Deep Learning, and Generative AI, with strong skills in data analysis, predictive modeling, and conversational AI. I specialize in Exploratory Data Analysis (EDA) and developing scalable, business-focused AI solutions.
+
+I have hands-on experience designing intelligent systems using LLMs, RAG pipelines, n8n workflows, and LangGraph-based agentic architectures, enabling automation, reasoning, and dynamic decision-making. My work focuses on building custom AI tools that enhance user engagement and operational intelligence.
+
+Passionate about innovation and real-world impact, I am dedicated to advancing the field of Agentic AI, Data Science, and next-generation intelligent systems to solve complex business and societal challenges.
               </p>
               <div className="row">
                 <div className="col-lg-6">
